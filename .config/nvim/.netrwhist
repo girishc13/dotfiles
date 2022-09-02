@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/gchandrashek/Documents/Code/cutie/minerva-scripts'
+let g:netrw_dirhist_2='/Users/gchandrashek/Documents/Code/cutie/minerva-scripts/minerva'
+let g:netrw_dirhist_3='/Users/gchandrashek/Documents/Code/cutie/minerva-scripts/minerva/scripts'
+let g:netrw_dirhist_4='/Users/gchandrashek/.sbt/1.0'
+let g:netrw_dirhist_5='/Users/gchandrashek/.config/nvim'
